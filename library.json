@@ -1,0 +1,18 @@
+{
+  "name": "PFFIAPDownloadAgent",
+  "frameworks": "Arduino",
+  "keywords": "IEEE1888, FIAP, SOAP, HTTP",
+  "description": "Implematation of IEEE1888(FIAP) (forked from official implementation)",
+  "url": "https://github.com/PlantFactory/PFFIAPDownloadAgent",
+  "authors":
+  [
+    {
+      "name": "Hiromasa Ihara"
+    },
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/PlantFactory/PFFIAPDownloadAgent"
+  }
+}
